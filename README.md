@@ -1,5 +1,4 @@
-# Newlepp-link<! SELAMAT DATANG CUYY>
-<head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>newlepp.link</title>
@@ -60,4 +59,4 @@ body{
 <a class="link" href="https://chat.whatsapp.com/Fzyso8euJDXBMlJZ6PEoxd?mode=hq2tcla" target="_blank">💬 Join WhatsApp Group</a>
 
 <div class="footer">Neon Gaming Link Page</div></div></body>
-</html>
+
