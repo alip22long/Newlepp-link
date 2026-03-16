@@ -7,60 +7,42 @@
 
 <style>
 
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:Arial, sans-serif;
-}
-
 body{
+margin:0;
+font-family:Arial;
 background:linear-gradient(135deg,#000428,#004e92);
-min-height:100vh;
 display:flex;
 justify-content:center;
 align-items:center;
+height:100vh;
 color:white;
 }
 
 /* Container */
 
 .container{
-width:90%;
-max-width:400px;
 text-align:center;
+width:90%;
+max-width:380px;
 }
 
-/* Photo profile */
-
-.profile{
-width:120px;
-height:120px;
-object-fit:cover;
-border-radius:50%;
-margin-bottom:15px;
-box-shadow:0 0 20px #00ffff;
-border:3px solid #00ffff;
-}
-
-/* Name */
+/* Title */
 
 .name{
-font-size:28px;
+font-size:30px;
 color:#00ffff;
-margin-bottom:25px;
+margin-bottom:35px;
 text-shadow:0 0 10px #00ffff,0 0 25px #00ffff;
 }
 
-/* Buttons */
+/* Button */
 
 .link{
 display:block;
-width:100%;
-margin:15px 0;
 padding:16px;
+margin:15px 0;
+border-radius:15px;
 border:2px solid #00ffff;
-border-radius:16px;
 color:#00ffff;
 text-decoration:none;
 font-size:17px;
@@ -80,17 +62,12 @@ transform:scale(1.03);
 @media (max-width:480px){
 
 .name{
-font-size:24px;
+font-size:26px;
 }
 
 .link{
 font-size:16px;
 padding:14px;
-}
-
-.profile{
-width:100px;
-height:100px;
 }
 
 }
@@ -102,8 +79,6 @@ height:100px;
 
 <div class="container">
 
-<img src="clown.png" class="profile" alt="profile">
-
 <div class="name">NEWLEPP</div>
 
 <a class="link" href="https://sociabuzz.com/newlep/tribe">
@@ -112,6 +87,12 @@ height:100px;
 
 <a class="link" href="https://chat.whatsapp.com/Fzyso8euJDXBMlJZ6PEoxd?mode=hq2tcla">
 📞 Join WhatsApp Group
+</a>
+
+</div>
+
+</body>
+</html>📞 Join WhatsApp Group
 </a>
 
 </div>
